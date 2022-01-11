@@ -5,3 +5,6 @@ yosemite_epics = 1
 
 climbing_is_dangerous = true
 driving_is_dangerous = true
+
+climbing = "My moms least favorite activity for me"
+swimming = "My moms preferred activity for me"
